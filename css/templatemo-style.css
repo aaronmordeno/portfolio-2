@@ -720,6 +720,10 @@ footer {
 
   .card {
     margin: 10px auto;
-    max-width: 70vw;
+    max-width: 50vw;
+  }
+
+  .card-btn {
+    min-width: 10vw;
   }
 }
