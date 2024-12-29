@@ -680,7 +680,7 @@ footer {
   }
 
   #home .home-thumb {
-    height: auto;
+    height: 100vh;
     padding-top: 32px;
     padding-bottom: 12px;
   }
@@ -725,5 +725,9 @@ footer {
 
   .card-btn {
     min-width: 10vw;
+  }
+
+  .contact-img {
+    left: 20px;
   }
 }
